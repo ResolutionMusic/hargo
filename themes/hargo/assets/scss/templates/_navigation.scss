@@ -45,7 +45,7 @@
       transition: .3s ease;
       opacity: 0;
       transform: scale(.95);
-      background: $white;
+      background: #797979;
 
       @include desktop {
         display: none;
